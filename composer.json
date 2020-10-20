@@ -1,4 +1,15 @@
 {
+    "name": "codeexperts/router",
+    "description": "A simple router make in a classes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nanderson Castro",
+            "email": "nandokstro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "8"
     },
